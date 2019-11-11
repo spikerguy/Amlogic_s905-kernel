@@ -9,6 +9,7 @@
 
 #include "meson-g12b-a311d.dtsi"
 #include "meson-g12b-khadas-vim3.dtsi"
+#include "khadas-ts050-panel.dtsi"
 
 / {
 	compatible = "khadas,vim3", "amlogic,a311d", "amlogic,g12b";
